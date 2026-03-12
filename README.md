@@ -20,8 +20,8 @@
 
 ### 1. 複製專案
 ```bash
-git clone https://github.com/your-repo/smart-ocr-monitor.git
-cd smart-ocr-monitor
+git clone https://github.com/brianshih04/OCR-Folder.git
+cd OCR-Folder
 ```
 
 ### 2. 建立虛擬環境
